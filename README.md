@@ -1,2 +1,2 @@
 # roman-numerals
-arabic numbers to roman numerals
+arabic numbers to roman numbers
