@@ -1,6 +1,6 @@
 # Image Editer
 
-Simple tool in python for convert image format, edit etc...
+Simple tool in python for convert image format, edit etc...<br>
 lib used: Pillow
 
 ## Features:
