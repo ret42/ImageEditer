@@ -13,5 +13,5 @@ lib used: Pillow
 - Filters
 
 ## Docs:
-Signature - https://en.wikipedia.org/wiki/List_of_file_signatures
-ImageOps - http://omz-software.com/pythonista/docs/ios/ImageOps.html
+- Signature - https://en.wikipedia.org/wiki/List_of_file_signatures
+- ImageOps - http://omz-software.com/pythonista/docs/ios/ImageOps.html
