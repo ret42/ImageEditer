@@ -10,6 +10,7 @@ lib used: Pillow
 - Mirror
 - Crop
 - Rotate
+- Image to ASCII
 - Filters
   - Autocontrast
   - Black And White
