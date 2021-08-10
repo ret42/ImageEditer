@@ -1,7 +1,7 @@
 # Image Editer
 
 Simple tool in python for convert image format, edit etc...<br>
-lib used: Pillow
+lib used: Pillow, transforms
 
 ## Features:
 - Fix corrupted image /!\ Only for bytes (support mp4)
