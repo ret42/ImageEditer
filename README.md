@@ -16,9 +16,10 @@ lib used: Pillow, transforms
   - Black And White
   - Invert
   - Tint
+  - Saturation
 
 ## Docs:
 - Signature - https://en.wikipedia.org/wiki/List_of_file_signatures
-- ImageOps - http://omz-software.com/pythonista/docs/ios/ImageOps.html
+- ImageOps - https://pillow.readthedocs.io/en/stable/
 
 ## PoC:
