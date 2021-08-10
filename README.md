@@ -1,7 +1,7 @@
 # Image Editer
 
 Simple tool in python for convert image format, edit etc...<br>
-lib used: Pillow, transforms
+lib used: Pillow
 
 ## Features:
 - Convert
@@ -32,5 +32,3 @@ lib used: Pillow, transforms
 ## Docs:
 - Signature - https://en.wikipedia.org/wiki/List_of_file_signatures
 - ImageOps - https://pillow.readthedocs.io/en/stable/
-
-## PoC:
