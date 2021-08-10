@@ -4,19 +4,30 @@ Simple tool in python for convert image format, edit etc...<br>
 lib used: Pillow, transforms
 
 ## Features:
-- Fix corrupted image /!\ Only for bytes (support mp4)
-- Change format
-- Video to gif
-- Mirror
-- Crop
-- Rotate
-- Image to ASCII
+- Convert
+  - PNG
+  - JPG
+  - WEBP
+  - GIF
+- Fix Corrupted Image (/!\ Bytes only)
+- Edit Image
+  - Mirror
+  - Flip
+  - Rotate
+  - Crop
+  - Resize
+  - Image To ASCII
+  - Split
 - Filters
   - Autocontrast
-  - Black And White
+  - Black and white
   - Invert
   - Tint
   - Saturation
+  - Blur
+  - Brightness
+  - Contrast
+  - Merge
 
 ## Docs:
 - Signature - https://en.wikipedia.org/wiki/List_of_file_signatures
