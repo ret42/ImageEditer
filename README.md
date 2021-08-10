@@ -11,6 +11,10 @@ lib used: Pillow
 - Crop
 - Rotate
 - Filters
+  - Autocontrast
+  - Black And White
+  - Invert
+  - Tint
 
 ## Docs:
 - Signature - https://en.wikipedia.org/wiki/List_of_file_signatures
